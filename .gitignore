@@ -1,3 +1,4 @@
 *.pyc
 gts/sk.txt
 venv
+.env
